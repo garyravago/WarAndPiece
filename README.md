@@ -18,7 +18,7 @@ Programming langauges and tools utilized include:
 - Heroku
 - Trello
 
-This live application is viewable [here]("https://war-and-piece.herokuapp.com)
+The live application is viewable [here](https://war-and-piece.herokuapp.com)
 
 ## Getting Started
 
